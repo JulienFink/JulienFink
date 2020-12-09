@@ -1,4 +1,4 @@
-### ~ Hi there, I'm Julien 👋
+### Hi there, I'm Julien 👋
 
 <br />
 
