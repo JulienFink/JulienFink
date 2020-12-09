@@ -1,4 +1,4 @@
-### Hi there, I'm Julien 👋
+### Hi there, I'm Julien [<img align="left" alt="Julien Fink | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <img align="left" alt="french flag" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png" />
 <img align="left" alt="french flag" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/320px-Flag_of_Germany.svg.png" />
 
@@ -9,14 +9,6 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute to Open Source projects
 - ⚡ Fun fact: I love getting lost on Youtube
-
----
-### Connect with me:
-
-[<img align="left" alt="Julien Fink | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<br/>
-<br/>
 
 ---
 ### Languages & Tools :
