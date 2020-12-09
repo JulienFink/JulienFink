@@ -1,8 +1,9 @@
 ### Hi there, I'm Julien 👋
 
+<br />
+<br />
 
 ---
-
 ## I'm a Student !!
 
 - 🌱 I’m currently learning everything 🤣
@@ -10,16 +11,18 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love getting lost on Youtube
 
----
+<br />
+<br />
 
+---
 ### Connect with me:
 
 [<img align="left" alt="Julien Fink | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-<br/>
+<br />
+<br />
 
 ---
-
 ### Languages & Tools:
 
 [<img align="left" alt="Visual Studio" width="26px" src="https://cloud.githubusercontent.com/assets/24522089/21962098/41a510c8-db36-11e6-95ef-eb392a0a1919.png" />]
