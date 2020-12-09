@@ -7,8 +7,8 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute to Open Source projects
-- ⚡ Fun fact: I love getting lost on Youtube
+- 🥅 2020 Goals : Contribute to Open Source projects
+- ⚡ Fun fact : I love getting lost on Youtube
 
 ---
 ### Languages & Tools :
