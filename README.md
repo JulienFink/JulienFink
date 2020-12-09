@@ -42,6 +42,6 @@
 ---
 
 <summary>:zap: GitHub Stats</summary>
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=JulienFink&show_icons=true&hide_border=true" />
+<img align="left" alt="codeSTACKr's GitHub Stats" src="[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JulienFink&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)" />
 
 [linkedin]: https://linkedin.com/in/julienfink
