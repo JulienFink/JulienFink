@@ -30,7 +30,7 @@
 
 ---
 
-<img align="left" alt="Programming Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulienFink&layout=compact" />
+<img align="left" alt="Programming Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulienFink&layout=compact&langcounts=4" />
 <br />
 <img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=JulienFink" />
 
