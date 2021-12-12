@@ -29,7 +29,7 @@
 
 ---
 
-<img align="left" alt="Programming Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulienFink&layout=compact&hide=r,html"/>
+<img align="left" alt="Programming Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulienFink&layout=compact&hide=JavaScript,html,SHELL,Tcl,Batchfile"/>
 <img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=JulienFink"/>
 
 [linkedin]: https://linkedin.com/in/julienfink 
