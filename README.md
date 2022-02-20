@@ -5,7 +5,7 @@
 <br />
 <br />
 
-- 🌱 I’m currently learning everything 🤣
+- 💻 Cybersecurity enthusiast !
 - 👯 I’m looking to collaborate with other content creators !
 - ⚡ Fun fact : I love getting lost on Youtube
 
