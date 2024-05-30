@@ -5,7 +5,7 @@
 <br />
 <br />
 
-- 💻 Cybersecurity enthusiast !
+- 💻 Technology enthusiast !
 - 👯 I’m looking forward to collaborate with other content creators
 - ⚡ Fun fact : I love getting lost on Youtube
 
